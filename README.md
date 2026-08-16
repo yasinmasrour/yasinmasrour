@@ -2,12 +2,6 @@
   <img src="./assets/Banner.webp" alt="Yasin Masrour - Backend Developer" width="100%">
 </div>
 
-<div align="center">
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-yasinmasrour-181717?style=for-the-badge&logo=github)](https://github.com/yasinmasrour)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yasin_masrour)
-</div>
-
 ---
 
 ## About Me
