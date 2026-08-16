@@ -2,25 +2,10 @@
   <img src="./assets/Banner.webp" alt="Yasin Masrour - Backend Developer" width="100%">
 </div>
 
-<h1 align="center">Yasin Masrour</h1>
-
-<p align="center">
-  Fullstack Developer
-</p>
-
 <div align="center">
-
-# Yasin Masrour
-
-### Fullstack Developer
-
-Building reliable backend systems, REST APIs, and real-world applications.
-
 <br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-yasinmasrour-181717?style=for-the-badge&logo=github)](https://github.com/yasinmasrour)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yasin_masrour)
-
 </div>
 
 ---
