@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.webp" alt="Yasin Masrour - Backend Developer" width="100%">
+  <img src="./assets/Banner.webp" alt="Yasin Masrour - Backend Developer" width="100%">
 </div>
 
 <h1 align="center">Yasin Masrour</h1>
