@@ -1,8 +1,18 @@
 <div align="center">
+  <img src="./assets/profile-banner.png" alt="Yasin Masrour - Backend Developer" width="100%">
+</div>
+
+<h1 align="center">Yasin Masrour</h1>
+
+<p align="center">
+  Fullstack Developer
+</p>
+
+<div align="center">
 
 # Yasin Masrour
 
-### Backend Developer | Node.js & JavaScript
+### Fullstack Developer
 
 Building reliable backend systems, REST APIs, and real-world applications.
 
